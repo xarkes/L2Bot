@@ -3,7 +3,7 @@
 This is mainly a Proof Of Concept of a Lineage II bot which should be compatible with
 L2 classic 1.5 and L2 classic 3.0.
 
-You can find here a small description of my work: https://xarkes.com/b/making-a-lineage-2-bot.html
+You can find here a small description of my work: https://xark.es/b/making-a-lineage-2-bot
 
 If you want to contribute, share ideas or whatever, feel free :)
 
